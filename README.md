@@ -1,5 +1,9 @@
 # panafel
 
+* This repository includes the code file (analysis_worksheet.ipynb) and dll and python helper files associated with the manuscript: (TBD: manuscript # and date).
+
+* The analysis_worksheet.ipynb file uses dll files that are installed with the 'ArcMET: Movement Ecology Tools for ArcGIS' extension available from www.movementecology.net.
+
 * The analysis worksheet relies on the Esri ArcMap Desktop environment v10.7.1) with a valid spatial analyst license. It requires the x64 python environment is installed (i.e. install the 'Background Geoprocessing' tools).
 
 * Please update your system PATH environment variables to include the following two entries:
